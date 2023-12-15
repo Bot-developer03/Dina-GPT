@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import utils from "./lib/utils.js";
-import charAi from "./lib/charai.js"
+import charAi from "./lib/dina.js"
 
 export default async function (sock, message) {
   const senderNumber = message.key.remoteJid;
