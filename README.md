@@ -10,10 +10,10 @@ This bot using [Baileys](https://github.com/WhiskeySockets/Baileys) library for 
 Customize your `CHARACTER_ID` and place your token at `CHARAI_TOKEN` in environment variable. (look at .env files). 
 [How to get token and find character id?](https://github.com/realcoloride/node_characterai#using-an-access-token)
 ```
-gitclone://bot-developer03/LinaVoiceBot
+gitclone://bot-developer03/Dina-GPT
 ```
 ```
-cd LinaVoiceBot
+cd Dina-GPT
 ```
 ```
 npm install
