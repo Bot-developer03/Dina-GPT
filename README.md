@@ -1,5 +1,6 @@
-# Chitanda Bot
-![pov: you](image.png)
+![IMG_20231215_145933_937](https://github.com/Bot-developer03/Dina-GPT/assets/145082163/7ca65ad4-8ab5-4e03-a804-e64703b9dfd0)
+
+
 
 ## About this bot
 This bot using [https://github.com/WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) library for communicating with Whatsapp.
